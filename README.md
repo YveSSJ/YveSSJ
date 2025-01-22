@@ -19,7 +19,7 @@
 - ⏳ **Learning**
 
 ![]([https://img.shields.io/badge/-Angular-informational?style=flat&logo=angular&logoColor=white&color=99397e](https://img.shields.io/badge/python-yellow?style=plastic&logo=python&logoColor=yellow&logoSize=auto&labelColor=blue&color=yellow
-))
+)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YveSSJ&repo=WsbAdvancedProgramming&theme=dracula)](https://github.com/YveSSJ/github-readme-stats)
 
