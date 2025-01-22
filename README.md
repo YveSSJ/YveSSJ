@@ -15,11 +15,11 @@
 ![](https://img.shields.io/badge/-SSMS-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=99397e)
 ![](https://img.shields.io/badge/-VirtualBox-informational?style=flat&logo=virtualbox&logoColor=white&color=99397e)
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=99397e)
-![](https://img.shields.io/badge/-Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=99397e)
 
 - ⏳ **Learning**
 
-![](https://img.shields.io/badge/-Angular-informational?style=flat&logo=angular&logoColor=white&color=99397e)
+![]([https://img.shields.io/badge/-Angular-informational?style=flat&logo=angular&logoColor=white&color=99397e](https://img.shields.io/badge/python-yellow?style=plastic&logo=python&logoColor=yellow&logoSize=auto&labelColor=blue&color=yellow
+))
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YveSSJ&repo=WsbAdvancedProgramming&theme=dracula)](https://github.com/YveSSJ/github-readme-stats)
 
