@@ -2,7 +2,7 @@
 ![Header](https://raw.githubusercontent.com/YveSSJ/YveSSJ/master/robotheader.png "Header")
 # Ohayō! <img src="https://raw.githubusercontent.com/YveSSJ/YveSSJ/master/wave.gif" width="30px"> 
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Machine & Deep Learning with python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
@@ -18,7 +18,7 @@
 
 - ⏳ **Learning**
 
-![]([https://img.shields.io/badge/-Angular-informational?style=flat&logo=angular&logoColor=white&color=99397e](https://img.shields.io/badge/python-yellow?style=plastic&logo=python&logoColor=yellow&logoSize=auto&labelColor=blue&color=yellow
+![]((https://img.shields.io/badge/python-yellow?style=plastic&logo=python&logoColor=yellow&logoSize=auto&labelColor=blue&color=yellow
 )
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YveSSJ&repo=WsbAdvancedProgramming&theme=dracula)](https://github.com/YveSSJ/github-readme-stats)
